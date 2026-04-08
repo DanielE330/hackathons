@@ -1,0 +1,3 @@
+[submodule "diploma-verify"]
+	path = diploma-verify
+	url = https://github.com/swimshadow/diploma-verify
