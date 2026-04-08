@@ -1,3 +1,6 @@
 [submodule "diploma-verify"]
 	path = diploma-verify
 	url = https://github.com/swimshadow/diploma-verify
+[submodule "spring-hack-2026"]
+	path = spring-hack-2026
+	url = https://github.com/DanielE330/spring-hack-2026
