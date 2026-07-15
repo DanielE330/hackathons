@@ -4,3 +4,4 @@
  |:-|:-:|:-:|:-|
  | уКАВаепнч ргошлщдл0зж | Хакатон Весна 2026 | 🥉 3 место | [регистрация входа и выхода сотрудников](https://github.com/DanielE330/spring-hack-2026 "регистрация входа и выхода сотрудников")
  | FAD | UMIRHack 2026 | 🥉 3 место | [верификация дипломов](https://github.com/swimshadow/diploma-verify "diploma-verify") |
+ | — | — | — | [backend-hackSpring](https://github.com/DanielE330/hackSpring-2025 "hackSpring-2025") |

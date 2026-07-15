@@ -4,3 +4,6 @@
 [submodule "spring-hack-2026"]
 	path = spring-hack-2026
 	url = https://github.com/DanielE330/spring-hack-2026
+[submodule "hackSpring-2025"]
+	path = hackSpring-2025
+	url = https://github.com/DanielE330/hackSpring-2025
